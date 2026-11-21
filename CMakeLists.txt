@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.16)
+project(nudex_lead_lines CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+find_package(Geant4 REQUIRED)
+add_executable(nudex_lines src/nudex_lines.cc)
+target_link_libraries(nudex_lines PRIVATE ${Geant4_LIBRARIES})
+target_include_directories(nudex_lines PRIVATE ${Geant4_INCLUDE_DIRS})

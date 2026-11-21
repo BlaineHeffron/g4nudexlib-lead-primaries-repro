@@ -1,0 +1,29 @@
+
+204Pb + n -> 205Pb   library block: 'ZA   82205  205PB  204PB(N,G) E=THERMAL: {~EGAF}'
+  header: Sn=6731.8 keV, 15 lines, sum=63.5558 %, 4th=10757.6, 5th=757.576  (sum of primaries 0.6356 per capture)
+  run: target Pb-204  events 100000  seed 204  captures 100000  other-captures 0
+      E_keV   library     ENSDF      EGAF   emitted      +-
+    6729.38    0.3442    0.4850    0.4790    0.3467  0.0019
+    4613.46    0.0732    0.1100    0.1087    0.0726  0.0009
+    4919.53    0.0656    0.0940    0.0928    0.0642  0.0008
+    5357.20    0.0439    0.0680    0.0672    0.0432  0.0007
+    4644.00    0.0237    0.0380    0.0376    0.0239  0.0005
+    5927.95    0.0237    0.0320    0.0316    0.0235  0.0005
+
+206Pb + n -> 207Pb   library block: 'ZA   82207  207PB  206PB(N,G) E=THERMAL: {~EGAF}'
+  header: Sn=6737.74 keV, 2 lines, sum=94.3287 %, 4th=13558.8, 5th=55555.6  (sum of primaries 0.9433 per capture)
+  run: target Pb-206  events 20000  seed 206  captures 19979  other-captures 0
+      E_keV   library     ENSDF      EGAF   emitted      +-
+    6737.62    0.9369         -    0.9882    0.9351  0.0068
+    5839.75    0.0064         -    0.0075    0.0069  0.0006
+
+207Pb + n -> 208Pb   library block: 'ZA   82208  208PB  207PB(N,G) E=THERMAL: {~EGAF}'
+  header: Sn=7367.92 keV, 8 lines, sum=87.3573 %, 4th=635.534, 5th=2808.99  (sum of primaries 0.8736 per capture)
+  run: target Pb-207  events 100000  seed 207  captures 100002  other-captures 0
+      E_keV   library     ENSDF      EGAF   emitted      +-
+    7367.78    0.8707    0.9969    0.9969    0.8695  0.0029
+    4753.31    0.0015    0.0014    0.0014    0.0015  0.0001
+    3282.39    0.0005    0.0007    0.0007         -  0.0000
+    1983.13    0.0002    0.0002    0.0002    0.0012  0.0001
+    3113.17    0.0002    0.0002    0.0002         -  0.0000
+    2430.72    0.0002    0.0002    0.0002         -  0.0000
